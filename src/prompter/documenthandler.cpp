@@ -481,8 +481,8 @@ void DocumentHandler::load(const QUrl &fileUrl)
                 // File formats managed by Qt
                 if (mime.inherits("text/html"))
                     emit loaded(QString::fromUtf8(data), Qt::RichText);
-                else if (mime.inherits("text/markdown"))
-                    emit loaded(QString::fromUtf8(data), Qt::MarkdownText);
+                //else if (mime.inherits("text/markdown"))
+                //    emit loaded(QString::fromUtf8(data), Qt::MarkdownText);
                 // File formats imported using external software
                 else {
                     ImportFormat type = NONE;

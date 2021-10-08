@@ -34,15 +34,15 @@ set(CMAKE_INCLUDE_CURRENT_DIR ON)
 # Instruct CMake to create code from Qt designer ui files
 set(CMAKE_AUTOUIC ON)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
-set(CMAKE_CXX_STANDARD 20)
+set(CMAKE_CXX_STANDARD 17)
 # Instruct CMake to run moc automatically when needed.
 set(CMAKE_AUTOMOC ON)
 set(CMAKE_AUTORCC ON)
 
 # QT 5.15 to be able to use new Connect methods syntax and get rid of warning.
-set(QT5_MIN_VERSION 5.15.2)
+#set(QT5_MIN_VERSION 5.15.2)
 # QT 5.12 for Ubuntu 20.04
-#set(QT_MIN_VERSION 5.12.0)
+set(QT_MIN_VERSION 5.12.0)
 # set(QT_DISABLE_DEPRECATED_BEFORE 5.15.2)
 # KF5 5.68 for Ubuntu 20.04
 # Use 5.83 to have current ecm_add_app_icon syntax
@@ -82,9 +82,9 @@ if(ANDROID)
     set(ANDROID_ABIS "armeabi-v7a") # arm64-v8a
 endif()
 
-# if(NOT CMAKE_BUILD_TYPE)
-#     set(CMAKE_BUILD_TYPE MinSizeRel CACHE STRING FORCE)
-# endif()
+if(NOT CMAKE_BUILD_TYPE)
+    set(CMAKE_BUILD_TYPE MinSizeRel CACHE STRING FORCE)
+endif()
 
 # Send compiled program and library binaries to "build/bin"
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/bin)
@@ -100,7 +100,7 @@ if(ANDROID)
         AndroidExtras
         VirtualKeyboard
         QuickControls2
-        QmlImportScanner  # Used to get static QML. Gets ignored if not a static build
+        #QmlImportScanner  # Used to get static QML. Gets ignored if not a static build
         QuickCompiler
     )
 elseif(WASM OR IOS)
@@ -110,19 +110,18 @@ elseif(WASM OR IOS)
         Svg
         Gui
         QuickControls2
-        QmlImportScanner  # Used to get static QML. Gets ignored if not a static build
+        #QmlImportScanner  # Used to get static QML. Gets ignored if not a static build
         QuickCompiler
     )
 else()
     find_package(Qt5 ${QT5_MIN_VERSION} REQUIRED NO_MODULE COMPONENTS
         Core
         Quick
-        #Test
         Svg
         Gui
         QuickControls2
         Widgets
-        QmlImportScanner  # Used to get static QML. Gets ignored if not a static build
+        #QmlImportScanner  # Used to get static QML. Gets ignored if not a static build
         QuickCompiler
     )
 endif()
