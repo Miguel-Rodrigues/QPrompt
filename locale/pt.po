@@ -19,106 +19,106 @@ msgstr ""
 
 #: kirigami_ui/+android/main.qml:144 kirigami_ui/main.qml:174
 #: kirigami_ui/main.qml:362 kirigami_ui/+windows/main.qml:202
-msgid "&New"
+msgid "&Novo"
 msgstr ""
 
 #: kirigami_ui/+android/main.qml:150 kirigami_ui/main.qml:180
 #: kirigami_ui/main.qml:366 kirigami_ui/+windows/main.qml:208
-msgid "&Open"
+msgid "&Abrir"
 msgstr ""
 
 #: kirigami_ui/+android/main.qml:156 kirigami_ui/main.qml:189
 #: kirigami_ui/main.qml:370 kirigami_ui/+windows/main.qml:214
-msgid "&Save"
+msgid "&Guardar"
 msgstr ""
 
 #: kirigami_ui/+android/main.qml:162 kirigami_ui/main.qml:198
 #: kirigami_ui/+windows/main.qml:220
-msgid "Save &As"
+msgid "Guardar &Como"
 msgstr ""
 
 #: kirigami_ui/+android/main.qml:169 kirigami_ui/main.qml:208
 #: kirigami_ui/+windows/main.qml:227
-msgid "&Recent Files"
+msgid "&Ficheiros Recentes"
 msgstr ""
 
 #: kirigami_ui/+android/main.qml:177 kirigami_ui/main.qml:216
 #: kirigami_ui/+windows/main.qml:235
-msgid "&Controls Settings"
+msgid "&Definições de Controlo"
 msgstr ""
 
 #: kirigami_ui/+android/main.qml:181 kirigami_ui/main.qml:220
 #: kirigami_ui/+windows/main.qml:239
-msgid "Keyboard Inputs"
+msgid "Entradas de Teclado"
 msgstr ""
 
 #: kirigami_ui/+android/main.qml:188 kirigami_ui/main.qml:227
 #: kirigami_ui/main.qml:607 kirigami_ui/+windows/main.qml:246
-msgid "Invert &arrow keys"
+msgid "Inverter &teclas direcionais"
 msgstr ""
 
 #: kirigami_ui/+android/main.qml:196 kirigami_ui/main.qml:235
 #: kirigami_ui/main.qml:614 kirigami_ui/+windows/main.qml:254
-msgid "Invert &scroll direction"
+msgid "Inverter &direção do scroll"
 msgstr ""
 
 #: kirigami_ui/+android/main.qml:204 kirigami_ui/main.qml:243
 #: kirigami_ui/main.qml:599 kirigami_ui/+windows/main.qml:262
-msgid "Use scroll as velocity &dial"
+msgid "Usar o scroll como &regulador de velocidade"
 msgstr ""
 
 #: kirigami_ui/+android/main.qml:213 kirigami_ui/main.qml:252
 #: kirigami_ui/main.qml:593 kirigami_ui/+windows/main.qml:271
-msgid "Disable scrolling while prompting"
+msgid "Desativar o scroll durante execução o teleponto"
 msgstr ""
 
 #: kirigami_ui/+android/main.qml:221 kirigami_ui/main.qml:260
 #: kirigami_ui/+windows/main.qml:279
-msgid "Other &Settings"
+msgid "&Outras definições"
 msgstr ""
 
 #: kirigami_ui/+android/main.qml:233 kirigami_ui/main.qml:272
 #: kirigami_ui/+windows/main.qml:291
-msgid "Force sub-pixel text renderer past 120px"
+msgid "Forçar renderizador texto sub-pixel para além de 120px"
 msgstr ""
 
 #: kirigami_ui/+android/main.qml:250 kirigami_ui/main.qml:289
 #: kirigami_ui/+windows/main.qml:308
-msgid "Abou&t"
+msgid "&Acerca de"
 msgstr ""
 
 #: kirigami_ui/+android/main.qml:256 kirigami_ui/main.qml:295
 #: kirigami_ui/main.qml:379 kirigami_ui/+windows/main.qml:314
-msgid "&Quit"
+msgid "&Sair"
 msgstr ""
 
 #: kirigami_ui/+android/main.qml:271 kirigami_ui/main.qml:321
 #: kirigami_ui/+windows/main.qml:334
-msgid "Load &Guide"
+msgid "Carregar &Guião"
 msgstr ""
 
 #: kirigami_ui/+android/main.qml:467 kirigami_ui/main.qml:789
 #: kirigami_ui/+windows/main.qml:484
-msgid "Save Document"
+msgid "Guardar Documento"
 msgstr ""
 
 #: kirigami_ui/+android/main.qml:468 kirigami_ui/main.qml:790
 #: kirigami_ui/+windows/main.qml:485
-msgid "Save changes to document before closing?"
+msgid "Guardar alterações antes de fechar?"
 msgstr ""
 
 #: kirigami_ui/EditorToolbar.qml:317 kirigami_ui/EditorToolbar.qml:327
 #: kirigami_ui/main.qml:544 kirigami_ui/main.qml:561
-msgid "&Left"
+msgid "&Esquerda"
 msgstr ""
 
 #: kirigami_ui/EditorToolbar.qml:317 kirigami_ui/EditorToolbar.qml:327
 #: kirigami_ui/main.qml:544 kirigami_ui/main.qml:561
-msgid "&Right"
+msgid "&Direita"
 msgstr ""
 
 #: kirigami_ui/EditorToolbar.qml:322
-msgid "C&enter"
+msgid "C&entro"
 msgstr ""
 
 #: kirigami_ui/EditorToolbar.qml:476
@@ -146,43 +146,43 @@ msgid "Kalpurush (Bengali)"
 msgstr ""
 
 #: kirigami_ui/EditorToolbar.qml:502
-msgid "Choose System Font"
+msgid "Escolher fonte de sistema"
 msgstr ""
 
 #: kirigami_ui/EditorToolbar.qml:729
-msgid "Velocity:"
+msgid "Velocidade:"
 msgstr ""
 
 #: kirigami_ui/EditorToolbar.qml:763
-msgid "Opacity:"
+msgid "Transparência:"
 msgstr ""
 
 #: kirigami_ui/EditorToolbar.qml:795
-msgid "Font size while editing:"
+msgid "Tamanho do texto em edição:"
 msgstr ""
 
 #: kirigami_ui/EditorToolbar.qml:826
-msgid "Font size:"
+msgid "Tamanho da Fonte:"
 msgstr ""
 
 #: kirigami_ui/EditorToolbar.qml:862
-msgid "Line height:"
+msgid "Altura da linha:"
 msgstr ""
 
 #: kirigami_ui/EditorToolbar.qml:900
-msgid "Word spacing:"
+msgid "Espaçamento entre palavras:"
 msgstr ""
 
 #: kirigami_ui/EditorToolbar.qml:936
-msgid "Letter spacing:"
+msgid "Espaçamento entre letras:"
 msgstr ""
 
 #: kirigami_ui/EditorToolbar.qml:972
-msgid "Step speed:"
+msgid "Velocidade do passo:"
 msgstr ""
 
 #: kirigami_ui/EditorToolbar.qml:1013
-msgid "Step acceleration:"
+msgid "Aceleração do passo:"
 msgstr ""
 
 #: kirigami_ui/EditorToolbar.qml:1049
@@ -190,148 +190,148 @@ msgid "Start Velocity"
 msgstr ""
 
 #: kirigami_ui/EditorToolbar.qml:1056
-msgid "Velocity to have when starting to prompt"
+msgid "Velocidade ao arranque do teleponto"
 msgstr ""
 
 #: kirigami_ui/EditorToolbar.qml:1092
-msgid "Skip Key"
+msgid "Tecla de Saltar"
 msgstr ""
 
 #: kirigami_ui/EditorToolbar.qml:1115
-msgid "Key to perform skip to this marker"
+msgid "Tecla de Saltar ao Marcador"
 msgstr ""
 
 #: kirigami_ui/InputsOverlay.qml:37
-msgid "Key Bindings"
+msgid "Associação de teclas"
 msgstr ""
 
 #: kirigami_ui/InputsOverlay.qml:131
-msgid "Toggle Prompter State"
+msgid "Alternar estado do teleponto"
 msgstr ""
 
 #: kirigami_ui/InputsOverlay.qml:139
-msgid "Decrease Velocity"
+msgid "Reduzir Velocidade"
 msgstr ""
 
 #: kirigami_ui/InputsOverlay.qml:147
-msgid "Increase Velocity"
+msgid "Aumentar Velocidade"
 msgstr ""
 
 #: kirigami_ui/InputsOverlay.qml:155
-msgid "Play/Pause"
+msgid "Tocar/Pausa"
 msgstr ""
 
 #: kirigami_ui/InputsOverlay.qml:163
-msgid "Move Backwards"
+msgid "Mover para Trás"
 msgstr ""
 
 #: kirigami_ui/InputsOverlay.qml:171
-msgid "Move Forward"
+msgid "Mover para a Frente"
 msgstr ""
 
 #: kirigami_ui/InputsOverlay.qml:179
-msgid "Go to Previous Marker"
+msgid "Ir para o marcador anterior"
 msgstr ""
 
 #: kirigami_ui/InputsOverlay.qml:187
-msgid "Go to Next Marker"
+msgid "Ir para o próximo marcador"
 msgstr ""
 
 #: kirigami_ui/main.qml:359
-msgid "&File"
+msgid "&Ficheiro"
 msgstr ""
 
 #: kirigami_ui/main.qml:374
-msgid "Save &As…"
+msgid "Guardar &Como…"
 msgstr ""
 
 #: kirigami_ui/main.qml:385
-msgid "&Edit"
+msgid "&Editar"
 msgstr ""
 
 #: kirigami_ui/main.qml:388 prompter/Prompter.qml:981
-msgid "&Undo"
+msgid "&Desfazer"
 msgstr ""
 
 #: kirigami_ui/main.qml:393
-msgid "&Redo"
+msgid "&Refazer"
 msgstr ""
 
 #: kirigami_ui/main.qml:399 prompter/Prompter.qml:945 prompter/Prompter.qml:992
-msgid "&Copy"
+msgid "&Copiar"
 msgstr ""
 
 #: kirigami_ui/main.qml:404 prompter/Prompter.qml:950 prompter/Prompter.qml:997
-msgid "Cu&t"
+msgid "Cor&tar"
 msgstr ""
 
 #: kirigami_ui/main.qml:409 prompter/Prompter.qml:955
 #: prompter/Prompter.qml:1002
-msgid "&Paste"
+msgid "Co&lar"
 msgstr ""
 
 #: kirigami_ui/main.qml:416
-msgid "&View"
+msgid "&Ver"
 msgstr ""
 
 #: kirigami_ui/main.qml:419
-msgid "Full &screen"
+msgid "&Ecrã Inteiro"
 msgstr ""
 
 #: kirigami_ui/main.qml:433
-msgid "&Indicators"
+msgid "&Indicadores"
 msgstr ""
 
 #: kirigami_ui/main.qml:435
-msgid "&Left Pointer"
+msgid "Ponteiro &Esquerdo"
 msgstr ""
 
 #: kirigami_ui/main.qml:441
-msgid "&Right Pointer"
+msgid "Ponteiro &Direito"
 msgstr ""
 
 #: kirigami_ui/main.qml:447
-msgid "B&oth Pointers"
+msgid "&Ambos os Ponteiros"
 msgstr ""
 
 #: kirigami_ui/main.qml:454
-msgid "&Bars"
+msgid "&Barras"
 msgstr ""
 
 #: kirigami_ui/main.qml:460
-msgid "Bars Lef&t"
+msgid "Barras à Es&querda"
 msgstr ""
 
 #: kirigami_ui/main.qml:466
-msgid "Bars Ri&ght"
+msgid "Barras à D&ireita"
 msgstr ""
 
 #: kirigami_ui/main.qml:473
-msgid "&All"
+msgid "&Tudo"
 msgstr ""
 
 #: kirigami_ui/main.qml:479
-msgid "&Hidden"
+msgid "&Escondido"
 msgstr ""
 
 #: kirigami_ui/main.qml:486
-msgid "Readin&g region"
+msgid "Ler &região"
 msgstr ""
 
 #: kirigami_ui/main.qml:488
-msgid "&Top"
+msgid "&Topo"
 msgstr ""
 
 #: kirigami_ui/main.qml:494
-msgid "&Middle"
+msgid "&Meio"
 msgstr ""
 
 #: kirigami_ui/main.qml:500
-msgid "&Bottom"
+msgid "&Baixo"
 msgstr ""
 
 #: kirigami_ui/main.qml:507
-msgid "F&ree placement"
+msgid "Posicionamento &livre"
 msgstr ""
 
 #: kirigami_ui/main.qml:513
